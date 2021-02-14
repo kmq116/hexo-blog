@@ -1,4 +1,4 @@
 # hexo-blog
 Hexo blog
-# npm instatl
+# npm install
 # npm run server
