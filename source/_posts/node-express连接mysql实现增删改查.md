@@ -1,7 +1,10 @@
 ---
 title: node-express连接mysql实现增删改查
 date: 2021-02-16 10:37:26
-tags:
+tags: 
+- Nodejs学习
+- Javascript学习
+categories: JS学习
 ---
 继上一篇的代码
 在`index.js`的同级目录下新建一个`router.js`和`mysql.js`文件
