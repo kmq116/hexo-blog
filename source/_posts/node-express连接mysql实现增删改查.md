@@ -2,7 +2,7 @@
 title: node-express连接mysql实现增删改查
 date: 2021-02-16 10:37:26
 tags: 
-- Nodejs学习
+- Nodejs
 - 后端入门
 - 
 categories: Nodejs
