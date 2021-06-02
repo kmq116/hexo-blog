@@ -11,6 +11,7 @@ tags:
   - gitToolBox git改动记录
   - Rainbow brackets 彩色括号
   - vscode keymap
+  - 我喜欢的主题 solaxxxx
  安装完vscode keymap 之后，进入到设置里，
  在左侧菜单中搜索keymap 
  点击搜索到的keymap选项
